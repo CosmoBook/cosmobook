@@ -7,3 +7,5 @@
 **Teletype:** [https://teletype.in/@creeptahfarm](https://teletype.in/@creeptahfarm)
 
 **GitHub:** [https://github.com/cosmobook](https://github.com/cosmobook)
+
+**Twitter:** [https://twitter.com/CosmoBook\_io](https://twitter.com/CosmoBook\_io)
