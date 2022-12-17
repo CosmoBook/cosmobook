@@ -28,6 +28,7 @@
   * [pSTAKE](cosmobook/pstake.md)
   * [Injective](cosmobook/injective.md)
   * [IRISnet](cosmobook/irisnet.md)
+  * [Quicksilver](readme/quicksilver.md)
   * [UnUniFi Protocol](cosmobook/ununifi-protocol.md)
   * [Дропы Космоса](cosmobook/dropy-kosmosa.md)
 * [CosmoLinks](cosmolinks.md)
