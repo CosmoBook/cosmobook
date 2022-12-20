@@ -63,6 +63,10 @@
 
 * [https://chain-registry.netlify.app/](https://chain-registry.netlify.app/)
 
+### Как выбрать валидатора
+
+* [https://score.bronbro.io/](https://score.bronbro.io/)
+
 ### Краны:
 
 * [https://stakely.io/en/faucet](https://stakely.io/en/faucet)
