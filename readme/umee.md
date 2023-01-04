@@ -139,7 +139,7 @@ Gravity Bridge — это специфический мост, оптимизи�
 * Вы приобрели UMEE на децентрализованной бирже на базе Ethereum
 * Вы перевели UMEE с блокчейна Umee на Ethereum.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Токеномика
 

@@ -114,7 +114,7 @@ $QCK используется для оплаты комиссий за тран
 
 Первоначальное распределение собственного токена Quicksilver, QCK, составит 200 миллионов. Это будет распределено следующим образом:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Ранее была информация о вестинге для основателей и инвесторов, однако, в нынешней токеномике она удалена.
 
