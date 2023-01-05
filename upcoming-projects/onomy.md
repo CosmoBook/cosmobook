@@ -54,3 +54,21 @@ $NOM выполняет гавернанс и утилити функции:
 Первоначально после запуска своей торговой площадки Onomy будут сфокусированы на предоставлении пользователю безопасной, децентрализованной торговой площадки с удобным интерфейсов и функционалом CEX.
 
 Однако долгосрочной целью является создание площадки, которая позволила бы трейдерам Forex осуществлять свою деятельность он-чейн благодаря обеспеченным криптой стейблам, представляющим те или иные национальные валюты.&#x20;
+
+### **Ссылки:**
+
+Веб-сайт: [https://www.onomy.io](https://www.onomy.io)
+
+Твиттер: [https://twitter.com/onomyprotocol](https://twitter.com/onomyprotocol)
+
+Телеграм: [https://t.me/onomyprotocol](https://t.me/onomyprotocol)
+
+Дискорд: [https://discord.com/invite/onomy](https://discord.com/invite/onomy)
+
+Медиум: [https://medium.com/onomy-protocol](https://medium.com/onomy-protocol)
+
+Документация: [http://docs.onomy.io/](http://docs.onomy.io/)
+
+Litepaper: [https://onomy.io/docs/onomy\_litepaper\_v2.pdf](https://onomy.io/docs/onomy\_litepaper\_v2.pdf)
+
+GitHub: [https://github.com/onomyprotocol/](https://github.com/onomyprotocol/)
