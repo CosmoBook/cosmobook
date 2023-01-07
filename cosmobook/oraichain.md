@@ -159,19 +159,21 @@ Oraichain -- это скорее foundation, а не зона. Токеноми�
 
 ### **Ссылки**
 
-**Вся официальная актуальная дока:**
+**Twitter:** [https://twitter.com/oraichain](https://twitter.com/oraichain)
 
-[https://docs.orai.io](https://docs.orai.io/readme/decentralized-validator-sampling)
+**Telegram:** [https://t.me/oraichain](https://t.me/oraichain)
 
-**Медиум OraiChain:**
+**Discord:** [https://discord.com/invite/wwjg2ddfzd](https://discord.com/invite/wwjg2ddfzd)
 
-[https://oraichain.medium.com/](https://oraichain.medium.com/)
+**Medium:** [https://oraichain.medium.com/](https://oraichain.medium.com/)
 
-**Текущий родмэп (2022):**
+**Documentation:** [https://docs.orai.io](https://docs.orai.io/readme/decentralized-validator-sampling)
 
-[https://orai.io/roadmap](https://orai.io/roadmap)
+**GitHub:** [https://github.com/oraichain](https://github.com/oraichain)
 
-**Статьи:**
+**Actual roadmap (2022):** [https://orai.io/roadmap](https://orai.io/roadmap)
+
+**Articles:**
 
 [https://morioh.com/p/100f231834f5](https://morioh.com/p/100f231834f5)
 
