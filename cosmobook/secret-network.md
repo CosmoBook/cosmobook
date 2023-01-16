@@ -52,7 +52,7 @@ Secret Network имеет переменный коэффициент инфля
 
 #### Secret Bridges <a href="#secret-bridges" id="secret-bridges"></a>
 
-Secret Ethereum Bridge \*\*\*\* - мост к сети Ethereum, был запущен \*\*\*\* 15 декабря 2020 года и является первым из многих мостов к другим экосистемам. Этот мост позволил пользователям обменивать Ethereum и четырнадцать других ERC-20 на их Secret эквивалент SNIP-20.
+Secret Ethereum Bridge - мост к сети Ethereum, был запущен 15 декабря 2020 года и является первым из многих мостов к другим экосистемам. Этот мост позволил пользователям обменивать Ethereum и четырнадцать других ERC-20 на их Secret эквивалент SNIP-20.
 
 Secret Bridges соединяют Secret Network с другими блокчейн-сетями, позволяя пользователям из различных экосистем создавать сохраняющие конфиденциальность версии своих активов, называемые Secret Tokens. Секретные токены являются очень интересной концепцией: они программируются, как ERC-20, и могут использоваться в приложениях, но по умолчанию остаются приватными, как, например, Monero и ей подобные монеты. Как только активы пересекают мост Secret Bridge в виде Secret Tokens, их можно использовать в приложениях Secret DeFi, которые по умолчанию являются приватными и совместимыми с несколькими сетями, что означает поддержку активов в различных блокчейн экосистемах.
 
@@ -76,37 +76,28 @@ Secret NFTs - это NFTs с программируемыми функциями
 
 #### **Основные DEFI на Secret Network**:
 
-\- [Shade Protocol](https://shadeprotocol.io/);
-
-\- [SiennaSwap](https://sienna.network/swap/);
-
-\- [SecretSwap](https://secretswap.net/);
-
-\- [SecretBridges](https://bridge.scrt.network/);
-
-\- [Hidro Finance](https://hydro.finance/);
-
-\- [BlackBox](https://blackbox.cash/);
-
-\- [Secret Auctions](https://hydro.finance/).
+* [Shade Protocol](https://shadeprotocol.io/);
+* [SecretSwap](https://secretswap.net/);
+* &#x20;[Button Swap](https://btn.group/secret\_network/button\_swap)
+* &#x20;[SecretBridges](https://bridge.scrt.network/);
+* &#x20;[BlackBox](https://blackbox.cash/);
+* &#x20;[Secret Auctions](https://hydro.finance/);
+* [Blizzard Finance](https://blizzard.finance/).
 
 #### **Основные НФТ на Secret Network:**
 
-* [Stashh](https://stashh.io/);
-* [SecretDAO](https://secretdao.com/);
-* [Chameleon Ville](https://chameleonville.com/).
+* &#x20;[Stashh](https://stashh.io/);
+* [Actilist](https://test.actilist.io/) (testnet).
 
 #### **Communication на Secret Network:**
 
-* [Alter](https://chameleonville.com/);
-* [Fardels](https://chameleonville.com/).
+* [Alter](https://alter.network/);
+* [Fardels](https://fardels.network/explore).
 
-#### **Игры на Secret Network**:
+**Игры на Secret Network**:&#x20;
 
-* [Legendao](https://legendao.io/);
-* [Secret Dreamscape](https://twitter.com/SCRTDreamscape);
-* [Orbem Wars](https://twitter.com/DomeriumLabs);
-* [Secret Heroe](https://secrethero.es/connect)s.
+* [Lorem Ipsum](https://geeks.pics/);
+* [Bushi](https://www.launchonenet.io/).
 
 #### **Основные ресурсы:**
 
@@ -118,9 +109,10 @@ Secret NFTs - это NFTs с программируемыми функциями
 * [Instagram](https://www.instagram.com/scrtnetwork/)
 * [Twitter](https://twitter.com/SecretNetwork)
 * [GitHub](https://github.com/SecretFoundation/SecretWebsite)
+* [Discord](http://chat.scrt.network)
 * [Форум](https://forum.scrt.network/)
-* [Телеграм](https://t.me/scrt\_russia)
-* [Русскоязычное комьюнити в Телеграм](https://t.me/scrt\_russia)
+* [Telegram](https://t.me/SCRTCommunity)
+* [Русскоязычное комьюнити в T](https://t.me/scrt\_russia)[elegram](https://t.me/scrt\_russia)
 
 ### **UPD:**
 
