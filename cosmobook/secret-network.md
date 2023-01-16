@@ -99,6 +99,13 @@ Secret NFTs - это NFTs с программируемыми функциями
 * [Lorem Ipsum](https://geeks.pics/);
 * [Bushi](https://www.launchonenet.io/).
 
+**dApps**&#x20;
+
+* [Fina ](https://scrt.network/blog/secret-feature-fina-wallet)
+* [Leap](https://scrt.network/blog/secret-feature-leap-mobile-wallet)&#x20;
+* [CertUP](https://certup.net/)&#x20;
+* [StakeEasy](https://www.stakeeasy.finance/)&#x20;
+
 #### **Основные ресурсы:**
 
 * [Календарь](https://secretcalendar.org/)
