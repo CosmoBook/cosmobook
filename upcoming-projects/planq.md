@@ -2,97 +2,99 @@
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-### **What is Planq**
+### Что такое Planq
 
-Planq is a blockchain focused on mobile platforms. Planq is OS-independent and works on every mobile device.
+**Planq** — блокчейн, ориентированный на мобильные платформы. Кроме того, Planq не зависит от ОС, что позволяет запускать платформу на любом мобильном устройстве.
 
-More than half of the world's population does not have access to a desktop or laptop computer. On the other hand more than 80% have access to a cell phone. This means that those who only have access to a phone or other mobile device could theoretically use Planq's blockchain to interact with DApps , DeFi apps and other mobile users without using a desktop computer.
+Более половины населения мира не имеет доступа к настольным или портативным компьютерам. С другой стороны, более 80% имеют доступ к мобильному телефону. Это означает, что те, у кого есть доступ только к телефону или другому мобильному устройству, теоретически могут использовать блокчейн Planq для взаимодействия с DApps , приложениями DeFi и другими мобильными пользователями без настольного компьютера.
 
-The Planq’s model removes barriers and invites range of users from a wide variety of communities to interact with blockchain. The impact will be felt in everything from peer-to-peer exchanges to DApp and DeFi development.
+Модель Planq устраняет барьеры для доступа, приглашая более широкий круг пользователей из самых разных сообществ к взаимодействию с блокчейном. Влияние будет ощущаться во всем, от одноранговых обменов до разработки DApp и DeFi.
 
-Planq is built on existing solutions including Web3, the Ethereum Virtual Machine (EVM) and the Tendermint consensus which have already successfully met their core objectives.
+Planq построен на базе уже существующих решений, включая Web3, виртуальную машину Ethereum (EVM) и консенсус Tendermint, которые уже успешно решают свои основные задачи.
 
-Planq's EVM infrastructure means that Ethereum-based smart contracts will run immediately on the Planq platform. This allows users and developers accustomed to the Ethereum ecosystem to interact with the platform seamlessly.
+Инфраструктура EVM Planq означает, что смарт-контракты на основе Ethereum сразу же будут работать на платформе Planq. Это позволяет пользователям и разработчикам, привыкшим к экосистеме Ethereum, беспрепятственно взаимодействовать с платформой.
 
-Due to Planq’s built in Tendermint technology users have all the resources needed to develop blockchain-based applications. Also Planq’s PoS design provides possibility for users to be active consensus mechanics participant as well as to develop blockchain solutions right from their cell phone.
+Поскольку Planq использует технологию Tendermint , у пользователей есть все ресурсы, необходимые для разработки приложений на основе блокчейна. Кроме того, из-за легкости конструкции Planq PoS , мобильный телефон обладает мощностью, необходимой для участия в механизме консенсуса, а также для разработки блокчейн-решений.
 
-In the near future developers at Planq will release a [wallet app](https://play.google.com/store/apps/details?id=network.planq.castrum) that integrates a full-featured wallet into one app as well as a gateway or hub that will allow this and other apps to interact with the blockchain. As a result it will be easier for developers to create solutions on the platform. Over time more and more tools will be added to the libraries making development faster and more efficient.
+В ближайшее время разработчики Planq выпустят [приложение-кошелек](https://play.google.com/store/apps/details?id=network.planq.castrum), которое интегрирует в одно приложение полнофункциональный кошелек, а также шлюз или концентратор, который позволит этому и другим приложениям взаимодействовать с блокчейном. В результате разработчикам будет проще создавать решения на платформе. Со временем в библиотеки будет добавляться все больше и больше инструментов, что сделает разработку быстрее и эффективнее.
 
-### **Usage Scenarios** <a href="#daq5" id="daq5"></a>
+### **Сценарии использования** <a href="#ejel" id="ejel"></a>
 
-#### **Safe communication** <a href="#euzz" id="euzz"></a>
+#### **Безопасное общение** <a href="#epdq" id="epdq"></a>
 
-It's important to keep messages private whether you use blockchain or not. With Planq users will be able to encrypt their messages protecting them from third parties who might want to intercept or interfere with communication.
+Важно сохранять конфиденциальность сообщений при взаимодействии с другими, независимо от того, используете ли вы блокчейн или нет. С Planq пользователи смогут шифровать свои сообщения, защищая их от третьих лиц, которые могут захотеть перехватить или помешать общению.
 
-As a result you can share all kinds of information including sensitive data through the Planq platform without worrying about someone stealing your data.
+В результате вы можете обмениваться всеми видами информации, включая конфиденциальные данные, если хотите, через платформу Planq , не беспокоясь о том, что кто-то украдет ваши данные.
 
-<figure><img src="https://img3.teletype.in/files/e3/35/e3354714-97be-4bf7-aef1-5784f3f332df.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img4.teletype.in/files/34/c5/34c5367a-f0d2-45d8-a6f0-4e64ee6a0199.png" alt=""><figcaption></figcaption></figure>
 
-#### **Instant funds transfering** <a href="#gaau" id="gaau"></a>
+#### **Мгновенная отправка и получение средств** <a href="#0qgv" id="0qgv"></a>
 
-Another key feature of Planq's solution is the ability to send crypto assets to other users directly in the chat app. The app simply integrates with your cryptocurrency wallet making it easy to transfer funds to whoever you're chatting with. There is no need to leave the app and go to another platform or website to send crypto-assets.
+Еще одна ключевая особенность решения Planq — возможность отправлять криптоактивы другим пользователям непосредственно в приложении чата. Приложение легко интегрируется с вашим криптовалютным кошельком, что упрощает перевод средств тому, с кем вы общаетесь. Нет необходимости выходить из приложения и переходить на другую платформу или веб-сайт для отправки крипто-активов.
 
-<figure><img src="https://img3.teletype.in/files/21/6d/216d44e2-03f0-4ba3-b5f7-39181d495ea5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img2.teletype.in/files/57/79/57797d6f-b5f2-4b11-87a5-0b409999aa3c.png" alt=""><figcaption></figcaption></figure>
 
-#### **Building applications in developing countries** <a href="#9byn" id="9byn"></a>
+#### **Разработка приложений в развивающихся странах** <a href="#ozyl" id="ozyl"></a>
 
-With Planq anyone can develop a simple application that allows users to send, for example, medical information about the patients as well as payment information, treatment progress and prescription data; or create an application to pay for goods and services simultaneously with encrypted communication in countries where the banking system has not reached. High speed, low fees, confidentiality are the main advantages of using such applications.
+С Planq любой желающий может разработать простое приложение, которое позволяет пользователям отправлять, например, медицинскую информацию о пациентах, которых они наблюдают, а также информацию об оплате, динамике лечения и данные о рецептах; или создать приложение для оплаты товаров и услуг одновременно с зашифрованным общением в странах, куда не добралась банковская система. Высокая скорость, низкие комиссии, конфиденциальность основные преимущества использования таких приложений.
 
-<figure><img src="https://img1.teletype.in/files/47/12/47122cb7-8cc2-4421-a803-7afc473cd9c5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img3.teletype.in/files/2d/0b/2d0bdba7-a9e6-4331-8150-c1f954327b64.png" alt=""><figcaption></figcaption></figure>
 
-### **Technical features** <a href="#zi84" id="zi84"></a>
+### **Технические особенности** <a href="#y8f4" id="y8f4"></a>
 
-<figure><img src="https://img1.teletype.in/files/80/83/8083978e-e950-4141-9a8c-7df29d3abd95.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img4.teletype.in/files/72/52/7252ca78-f75d-4ea0-bd09-bc65f3ca37ba.png" alt=""><figcaption></figcaption></figure>
 
-#### Block creation time <a href="#dtqx" id="dtqx"></a>
+#### **Время блока** <a href="#qlpd" id="qlpd"></a>
 
-The average block creation time on Planq is 5 seconds. This makes an advantage for users especially those who use Planq on the road or traveling. Applications will provide the stated performance even in case of bad internet. Transactions are instantaneous and do not require a constant high-quality connection.
+Среднее время блока на Planq составляет 5 секунд. Это создает преимущества для пользователей, особенно для тех, кто использует Planq в пути с мобильным устройством. Приложения обеспечат заявленную производительность и в более слабых сетях. Транзакция проходит мгновенно и не требует постоянного качественного соединения.
 
-#### **Inflation** <a href="#lxn4" id="lxn4"></a>
+#### **Инфляция** <a href="#kwov" id="kwov"></a>
 
-Inflation at Planq should range from a minimum of 7% to a maximum of 20% per year. It varies dynamically depending on how many coins are staked.
+Инфляция на Planq должна колебаться от минимума 7% до максимума 20% в год. Она изменяется динамически в зависимости от того, сколько монет заблокировано для стейкинга.
 
-#### **Staking** <a href="#5zsw" id="5zsw"></a>
+#### **Стейкинг** <a href="#zym3" id="zym3"></a>
 
-To meet its primary goals Planq team set an initial goal of 30% of all coins need to be staked. In this case network performance will be at a high level, the network infrastructure will be supported as it should, and the end-user experience will be enhanced.
+Чтобы решить свои первостепенные задачи на ранней стадии, Planq установил первоначальную цель на уровне 30%. Другими словами, цель состоит в том, чтобы застейкано было 30% всех монет. В этом случае работа сети будет более чем адекватной, будет обеспечена поддержка инфраструктуры сети и повышено удобство работы конечных пользователей.
 
-#### **Decentralization** <a href="#0pv7" id="0pv7"></a>
+#### **Децентрализация** <a href="#fcjt" id="fcjt"></a>
 
-Planq's governance infrastructure allows all holders to vote on the operation of the network. This means that ordinary investors have the right to make decisions about parameter changes and other modifications to the network or its policies.
+Инфраструктура управления Planq позволяет каждому, у кого есть токены, голосовать за работу сети. Это означает, что обычные инвесторы имеют право принимать решения об изменении параметров и других модификациях сети или ее политик.
 
-### Tokenomics <a href="#5u1m" id="5u1m"></a>
+<figure><img src="https://img3.teletype.in/files/2b/40/2b40e8fb-f6ee-429a-a846-42a838fdb307.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://img2.teletype.in/files/58/19/5819998f-ef6c-4e0e-b28b-24123d6cbb1b.png" alt=""><figcaption></figcaption></figure>
+#### Токеномика <a href="#tzq0" id="tzq0"></a>
 
-### **Roadmap** <a href="#3ddt" id="3ddt"></a>
+<figure><img src="https://img2.teletype.in/files/50/54/505406d3-44b2-470c-9734-252af8bcf98e.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://img2.teletype.in/files/1b/af/1baf4ec3-8716-4de7-85f5-0b18486f9500.png" alt=""><figcaption></figcaption></figure>
+### **Дорожная карта** <a href="#vc6m" id="vc6m"></a>
 
-### **Castrum** <a href="#szhn" id="szhn"></a>
+<figure><img src="https://img1.teletype.in/files/07/28/07287fa6-5edc-4737-91d1-eb76c0548fd8.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://img3.teletype.in/files/e4/b2/e4b2e3e2-7d39-4e45-a132-09cfe238949d.png" alt=""><figcaption></figcaption></figure>
+### Приложение <a href="#jvcq" id="jvcq"></a>
 
-Planq has developed the Castrum app for confidential and secure communication. In January 2023 users will be able to test the app and give their feedback.
+<figure><img src="https://img3.teletype.in/files/ec/4c/ec4c032e-ac79-4a8a-988d-20a9ea81e98a.png" alt=""><figcaption></figcaption></figure>
 
-The main purpose of the application is confidential communication and token transfer.
+Planq разработал приложение Castrum для конфиденциального и безопасного общения. Уже в январе 2023 пользователи смогут протестировать приложение и дать свои отзывы.
 
-Inside the application there is the possibility to use popular Dapp\`s (exchangers, games, marketplaces, social networks, DeFi applications, etc.).
+Основное назначение приложения - конфиденциальное общение и передача токенов.
 
-<figure><img src="https://img3.teletype.in/files/e4/a0/e4a0d74b-16eb-4aec-94a7-fe835bb28c7d.png" alt=""><figcaption></figcaption></figure>
+Внутри приложение имеется возможность использования популярных Dapp\`s (обменники, игры, маркетплейсы, социальные сети, DeFi - приложения и т.п.).
 
-The settings in the app allow you to customize your privacy, arrange private communication and joint chats.
+<figure><img src="https://img2.teletype.in/files/57/78/5778d3a9-8491-4264-97a0-2652e2d96c7f.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://img4.teletype.in/files/f8/7e/f87efe8d-37dc-4b8c-aac3-844d4f24ed7d.png" alt=""><figcaption></figcaption></figure>
+Настройки позволяют адаптировать конфиденциальность под себя, организовать приватное общение тет-а-тет и совместные чаты.
 
-We have tested the possibility of tokens transfer.
+<figure><img src="https://img1.teletype.in/files/4a/f1/4af11061-a08f-435e-b411-484c1e7012c1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://img1.teletype.in/files/c0/d3/c0d368a4-7028-416e-98a9-d81d4ba9e86b.png" alt=""><figcaption></figcaption></figure>
+Нами была проверена возможность передачи токенов.
 
-Castrum automatically detects the language of the system and switches the application language.
+<figure><img src="https://img3.teletype.in/files/a0/3a/a03acc23-594e-43df-9582-e1ef114d6786.png" alt=""><figcaption></figcaption></figure>
 
-In the near future users will be able to test everything themselves and give their feedback.
+Castrum автоматически определяет язык работы системы и переключает язык самого приложения на язык работы системы.
 
-### Links <a href="#wk9x" id="wk9x"></a>
+В ближайшее время пользователи смогут проверить все сами и дать фидбек.
+
+### **Ссылки** <a href="#91tv" id="91tv"></a>
 
 **Web-site:** [https://planq.network/](https://planq.network/)
 
