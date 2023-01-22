@@ -26,7 +26,7 @@ Onomy создается с использованием Cosmos SDK, поэто�
 
 ## **Нативный токен $NOM: токеномика, утилити**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 $NOM выполняет гавернанс и утилити функции:
 
