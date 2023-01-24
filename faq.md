@@ -42,3 +42,4 @@ _полный гайд_ [_здесь_](https://teletype.in/@creeptah/evm\_to\_co
 |              |                  | SifChaine (ROWAN)    | Iris            |                 |
 |              |                  | Persistence (XPRT)   | Teritori (TORI) |                 |
 |              |                  | Onomy (NOM)          | Orai            |                 |
+|              |                  | Planq                |                 |                 |
