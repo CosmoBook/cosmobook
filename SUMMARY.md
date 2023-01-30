@@ -9,6 +9,7 @@
   * [Axelar Network](cosmobook/axelar-network.md)
   * [Evmos](cosmobook/evmos.md)
   * [Umee](readme/umee.md)
+  * [Stride](readme/stride.md)
   * [Cronos](cosmobook/cronos.md)
   * [Sifchain](cosmobook/sifchain.md)
   * [Stargaze](cosmobook/stargaze.md)

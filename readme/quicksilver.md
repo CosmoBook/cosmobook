@@ -46,7 +46,7 @@ Alice и Bob каждый застейкал 150 Atom и получил по 150
 
 В следующую эпоху аггрегированный вес изменится (2,5 : 1 : 2,5), так что ределегация в Cosmo Hub отправит 25 токенов в А и 25 токенов в С.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### **Распределение риска и слэшинг**
 
@@ -106,7 +106,7 @@ $QCK используется для оплаты комиссий за тран
 
 Инфляция в первый год составит 65% и будет снижатся на 25% каждый год, однако, может быть изменена голосованием. Токены распределяются следующим образом:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 Распределение может быть изменено по усмотрению держателей токенов QCK через управление протоколом.
 
@@ -114,7 +114,7 @@ $QCK используется для оплаты комиссий за тран
 
 Первоначальное распределение собственного токена Quicksilver, QCK, составит 200 миллионов. Это будет распределено следующим образом:
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 Ранее была информация о вестинге для основателей и инвесторов, однако, в нынешней токеномике она удалена.
 

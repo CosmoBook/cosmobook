@@ -161,7 +161,7 @@ _\* Axelar Foundation стремится тратить токены прогр�
 
 Из $127,0M в TVL 53% приходится на объем $USDC.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Подробнее про итоги работы Axelar за первые 6 месяцев [тут](https://twitter.com/Flowslikeosmo/status/1582174643900715008?s=20\&t=ffpjul4HAUL0anO-TYjh5A).
 

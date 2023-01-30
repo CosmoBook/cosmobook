@@ -1,6 +1,6 @@
 # Duality
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Duality** – это децентрализованная биржа, предлагающая пользователям и протоколам широкий спектр различных настроек. Запуск Duality планируется на 2023 год в виде аппчейна в сети Cosmos. Основной идеей Duality является создание торговой площадки, которая бы использовала все преимущества AMM и Книги ордеров (orderbook), но была бы лишена их недостатков.
 
