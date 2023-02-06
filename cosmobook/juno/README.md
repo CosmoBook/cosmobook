@@ -1,8 +1,6 @@
 # Juno
 
-![](https://img4.teletype.in/files/f8/6c/f86cc85f-01a0-4568-a019-22c6435e9b1b.png)
-
-## Juno <a href="#uler" id="uler"></a>
+## uno <a href="#uler" id="uler"></a>
 
 Блокчейн Juno возник в результате инициативы сообщества разработчиков, валидаторов и делегаторов Cosmos.
 
@@ -82,11 +80,11 @@ CosmWasm – это платформа на CosmosSDK, которая адапт
 
 ### Экосистема <a href="#ekosistema" id="ekosistema"></a>
 
-Сейчас на Juno существует около 50 приложений. Из крупных протоколов – Junoswap (DEX), DAODAO (тулза для создания DAO), TFM (DEX агрегатор), JunoMint (DAPP для минта своего токена на JUNO), StrangeClan (p2e игра на движке u5).
+Сейчас на Juno существует около 50 приложений. Из крупных протоколов –  [WYND](https://app.wynddao.com) (DEX), который пришел на смену Junoswap (DEX) (решение было принято в prop 18 RAW DAO, детали [тут](https://www.rawdao.zone/vote/18)), DAODAO (тулза для создания DAO), TFM (DEX агрегатор), JunoMint (DAPP для минта своего токена на JUNO), StrangeClan (p2e игра на движке u5).
 
-Тут тоже есть странные вещи: Junoswap до сих пор в бета-версии. Вероятно это из-за непростой разработки на CosmWasm. Одно дело плодить Uniswap/Sushiswap на EVM, а другое написать с нуля. Гитхаб выглядит довольно неплохо (посмотреть можно [тут](https://github.com/cosmoscontracts/junoswap-interface)), а UI-дизайнерам стоило бы подглядеть как надо у Osmosis. Потому что на данный момент, интерфейс выглядит вот так:
+UI у WIND стал выглядеть много приятнее Junoswap, надеемся продукт получит достойное развитие и будет успешен:
 
-![](https://telegra.ph/file/5d2def098abd1560492d2.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Что имеем в итоге: блокчейн, ориентированный на разработку быстрых контрактов, но вероятно слишком инновационный, чтобы уже быть на уверенном плаву.
 
