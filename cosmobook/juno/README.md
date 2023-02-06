@@ -1,6 +1,6 @@
 # Juno
 
-## uno <a href="#uler" id="uler"></a>
+## Juno <a href="#uler" id="uler"></a>
 
 Блокчейн Juno возник в результате инициативы сообщества разработчиков, валидаторов и делегаторов Cosmos.
 
@@ -90,6 +90,9 @@ UI у WIND стал выглядеть много приятнее Junoswap, н�
 
 ### Ссылки <a href="#ssylki" id="ssylki"></a>
 
-1. Текущую стату по блокчейну в Даше от Bro’n’Bro [тут.](https://monitor.bronbro.io/d/juno-stats/juno-stats?orgId=2\&refresh=5s)
-2. С экосистемой ознакомиться [тут.](https://www.junonetwork.io/ecosystem/)
-3. Официальная документация [тут.](https://docs.junonetwork.io/)
+1. Сайт: [https://www.junonetwork.io/](https://www.junonetwork.io/)
+2. Документация: [https://docs.junonetwork.io/juno/readme](https://docs.junonetwork.io/juno/readme)
+3. Твиттер: [https://twitter.com/JunoNetwork](https://twitter.com/JunoNetwork)
+4. Дискорд: [https://discord.com/invite/Juno](https://discord.com/invite/Juno)
+5. Гитхаб: [https://github.com/CosmosContracts](https://github.com/CosmosContracts)
+6. Dashboard от Bro’n’Bro: [https://monitor.bronbro.io/d/juno-stats/juno-stats?orgId=2\&refresh=5s](https://monitor.bronbro.io/d/juno-stats/juno-stats?orgId=2\&refresh=5s)
