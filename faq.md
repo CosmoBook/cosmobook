@@ -36,7 +36,7 @@ _полный гайд_ [_здесь_](https://teletype.in/@creeptah/evm\_to\_co
 |              | Umee             | Sommelier (SOMM)     | Regen           |                 |
 |              | Kujira (KUJI)    | GravityBridge (GRAV) | Kava            |                 |
 |              | Nomic (NOM)      | Cryrto.org (CRO)     | Agorik (BLD)    |                 |
-|              |                  | Certik (CTK)         | Likecoin (LIKE) |                 |
+|              | Mars Protocol    | Certik (CTK)         | Likecoin (LIKE) |                 |
 |              |                  | Bitsong (BTSG)       | Rebus           |                 |
 |              |                  | e-Money (NGM)        | Stride (STRD)   |                 |
 |              |                  | SifChaine (ROWAN)    | Iris            |                 |
