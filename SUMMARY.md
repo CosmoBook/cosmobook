@@ -33,6 +33,7 @@
   * [Дропы Космоса](cosmobook/dropy-kosmosa.md)
 * [Upcoming projects](upcoming-projects/README.md)
   * [Onomy](upcoming-projects/onomy.md)
+  * [ASTROPORT](upcoming-projects/astroport.md)
   * [Duality](upcoming-projects/duality.md)
   * [Planq](upcoming-projects/planq.md)
   * [UnUniFi Protocol](upcoming-projects/ununifi-protocol.md)
