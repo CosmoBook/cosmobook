@@ -1,6 +1,6 @@
 # ASTROPORT
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 **Astroport** это децентрализованная биржа, поддерживающая классические (x\*y=k) свапы и стейблсвапы (x+y=k). Главным новшеством Astroport считается Astro Generators.
 
@@ -40,7 +40,7 @@ Astro generators - это программа, которая позволяет 
 
 В свою очередь, Astroport получает от этого больший интерес со стороны пользователей, другие проекты получают ликвидность, а провайдеры ликвидности в Astroport получают в разы большую доходность.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Токен
 
@@ -60,7 +60,7 @@ xASTRO в любой момент может быть обменен 1:1 на As
 
 Общее предложение ASTROC - 1B.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Токеномика ASTRO.&#x20;
 
@@ -74,7 +74,7 @@ xASTRO в любой момент может быть обменен 1:1 на As
 
 Графики представлены схематично:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Развитие проекта
 

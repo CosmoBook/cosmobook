@@ -10,6 +10,7 @@
   * [Evmos](cosmobook/evmos.md)
   * [Umee](readme/umee.md)
   * [Stride](readme/stride.md)
+  * [Canto](readme/canto.md)
   * [Cronos](cosmobook/cronos.md)
   * [Sifchain](cosmobook/sifchain.md)
   * [Stargaze](cosmobook/stargaze.md)
