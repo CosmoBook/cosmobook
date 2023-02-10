@@ -127,7 +127,7 @@ Axelar — это универсальная оверлейная сеть, со
 
 **График выпуска токенов**
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Комиссии за транзакции, вознаграждения и структуры скидок для AXL были определены и подробно описаны [тут](https://medium.com/@axelar-foundation/inflation-and-transaction-fees-on-the-axelar-network-d56ea9e2c142).
 
