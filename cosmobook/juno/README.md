@@ -84,7 +84,7 @@ CosmWasm – это платформа на CosmosSDK, которая адапт
 
 UI у WIND стал выглядеть много приятнее Junoswap, надеемся продукт получит достойное развитие и будет успешен:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Что имеем в итоге: блокчейн, ориентированный на разработку быстрых контрактов, но вероятно слишком инновационный, чтобы уже быть на уверенном плаву.
 

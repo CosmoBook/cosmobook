@@ -77,7 +77,7 @@ Planq построен на базе уже существующих решен�
 
 Это приводит к разблокировке токенов в размере 3 705 000 (или 3,7% от общего объема  genesis) в месяц, без учета инфляции.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Интерактивную версию можно найти на: <a href="https://planq.network/whitepaper#tokenomics">https://planq.network/whitepaper#tokenomics</a> Источник: <a href="https://static.planq.network/whitepaper.pdf">https://static.planq.network/whitepaper.pdf</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Интерактивную версию можно найти на: <a href="https://planq.network/whitepaper#tokenomics">https://planq.network/whitepaper#tokenomics</a> Источник: <a href="https://static.planq.network/whitepaper.pdf">https://static.planq.network/whitepaper.pdf</a></p></figcaption></figure>
 
 Все токены из genesis будут разблокированы в феврале 2025 года, если токеномика не изменится от управления до этой даты, будет сделано новое предложение для финансирования вышеуказанных пулов.&#x20;
 

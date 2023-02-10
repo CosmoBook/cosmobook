@@ -40,7 +40,7 @@ Astro generators - это программа, которая позволяет 
 
 В свою очередь, Astroport получает от этого больший интерес со стороны пользователей, другие проекты получают ликвидность, а провайдеры ликвидности в Astroport получают в разы большую доходность.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Токен
 
