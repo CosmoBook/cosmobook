@@ -51,7 +51,7 @@ NOTE нельзя создать, как стейблкоины, его можн
 
 [**Canto Lending Market(CLM)**](https://canto.io/lending)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 CLM контролируется стейкерами Canto, которые заинтересованы в развитии экосистемы и создании наилучшей среды как для разработчиков, так и для пользователей DeFi. Таким образом, у них нет стимула извлекать прибыль на прикладном уровне. Главной особенностью CLM является возможность использовать токены LP с Canto DEX в качестве залога. Это обеспечение размещается на кредитном рынке в качестве предложения, но пользователям не получитьcя взять токены LP в займ.
 
@@ -59,7 +59,7 @@ CLM контролируется стейкерами Canto, которые за
 
 Чтобы предотвратить возможность хищнической эволюции в сторону погони за деньгами, Canto DEX: не может быть улучшен, не имеет официального интерфейса, работает бессрочно и без возможности взимать плату. На данный момент основное взаимодействие с Canto DEX происходит через DEX-агрегатор [Slingshot](https://app.slingshot.finance/swap/CANTO).
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 Canto DEX является АММ и поддерживает классические xy=k свапы и концентрированные пулы ликвидности.
 
