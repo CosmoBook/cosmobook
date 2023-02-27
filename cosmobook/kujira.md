@@ -128,7 +128,7 @@ BLUE является ядром экосистемы Kujira и содержит
 
 Кошелек Kujira на Blue dApp имеет расширенную функциональность, позволяя пользователям отправлять токены нескольким получателям с периодами наделения правами (в заранее заданное время). Это может быть использовано протоколами, DAO или кем-либо, кто хочет осуществлять платежи с пользовательскими периодами отправки без необходимости разрабатывать собственный контракт наделения правами.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 Интерфейс Swap на BLUE не отличается от базового пользовательского интерфейса свопа, который можно найти на AMM DEX. Однако сделки, заключенные через Swap, направляются через собственный CLOB DEX компании Kujira, FIN. Это представляет собой альтернативный фронтенд для пользователей, не привыкших к более продвинутому торговому интерфейсу, который предлагает FIN.
 
@@ -211,7 +211,7 @@ Kujira $USK - SDK-нативный стейблкоин Cosmos с избыточ
 
 Планы на ближайшую перспективу
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>https://kujira.app</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>https://kujira.app</p></figcaption></figure>
 
 ### **Резюме** <a href="#pxqx" id="pxqx"></a>
 
@@ -260,13 +260,13 @@ Kujira $USK - SDK-нативный стейблкоин Cosmos с избыточ
 
 Если интересуют валидаторы из ру-говорящего сообщества, вот они:
 
-• [cyberG](https://blue.kujira.app/stake/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k)
-
-• [MMS](https://blue.kujira.app/stake/kujiravaloper1hn4za2pm8fnkgk3cjw9az9z7q9p4qg3yayh74l)
-
-• [vbloher](https://blue.kujira.app/stake/kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84)
-
-• [AM Solutions ](https://blue.kujira.app/stake/kujiravaloper1ly6xufjfuylky42ggcf79nvw5jmqzlkgq5drsg)🐋
+* [rektDAO](https://blue.kujira.app/stake/kujiravaloper15nqrg0v94xmsmymcgy2ke8h8hwkzwhzquy7r9j)
+* [MagicTeam](https://blue.kujira.app/stake/kujiravaloper19p5atnus3v6adqy2gca83lh9uf75wpymjvrpku)
+* [ghostinnet](https://blue.kujira.app/stake/kujiravaloper1phekwx93vtlk8yjqvvnppzgkfd9tt7e8qxmy2l)
+* [cyberG](https://blue.kujira.app/stake/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k)
+* [MMS](https://blue.kujira.app/stake/kujiravaloper1hn4za2pm8fnkgk3cjw9az9z7q9p4qg3yayh74l)
+* [vbloher](https://blue.kujira.app/stake/kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84)
+* [AM Solutions ](https://blue.kujira.app/stake/kujiravaloper1ly6xufjfuylky42ggcf79nvw5jmqzlkgq5drsg)🐋
 
 ### **Перевод по IBC Transfer с адресов Keplr\`a на адрес Kujira(Keplr):**
 
