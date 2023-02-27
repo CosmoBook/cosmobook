@@ -1,6 +1,6 @@
 # Levana
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Команда Levana стремится построить свою собственную экосистему, в которой помимо DeFi продуктов будут так же присутствовать NFT и P2E элементы. Проект собирались запускать на Terra, но в виду всем известных событий, поменяли площадку на JUNO, а теперь уже на Osmosis.
 

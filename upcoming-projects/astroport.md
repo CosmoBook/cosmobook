@@ -52,7 +52,7 @@ Astro generators - это программа, которая позволяет 
 
 xASTRO в любой момент может быть обменен 1:1 на Astro. Лока на вывод из стейкинга нет, вывод моментальный.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Распределение токенов ASTROC.
 

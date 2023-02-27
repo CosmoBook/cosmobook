@@ -1,6 +1,6 @@
 # Canto
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>
 
 Концепция Canto строится вокруг идеи создания подлинной децентрализации.
 
@@ -67,7 +67,7 @@ Canto DEX является АММ и поддерживает классичес
 
 Со списком возможных пулов ликвидности можно ознакомиться ниже:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Всё вышеперечисленное является приложениями инициированными командой Canto, но есть так же и пользовательские приложения.
 

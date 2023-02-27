@@ -46,7 +46,7 @@ Alice и Bob каждый застейкал 150 Atom и получил по 150
 
 В следующую эпоху аггрегированный вес изменится (2,5 : 1 : 2,5), так что ределегация в Cosmo Hub отправит 25 токенов в А и 25 токенов в С.
 
-<figure><img src="../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### **Распределение риска и слэшинг**
 
