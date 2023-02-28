@@ -1,6 +1,6 @@
 # Mars Protocol
 
-<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 Видение Mars строится на С2С (contract-2-contract) кредитовании, которые позволяет смарт-контрактам, интегрированными с Mars, заимствовать активы из Red Bank для заранее установленной цели. Это позволит использовать больше средств и использовать их более эффективно. Например, C2C будет развернут на Osmosis, что позволит пользователям взять займ OSMO для фарминга LP на Osmosis с кредитным плечом т.е. увеличить свою позицию OSMO для получения большого эффекта.
 
