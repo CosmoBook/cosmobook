@@ -223,6 +223,10 @@ Kujira $USK - SDK-нативный стейблкоин Cosmos с избыточ
 
 <figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>https://kujira.app</p></figcaption></figure>
 
+### Bonus <a href="#pxqx" id="pxqx"></a>
+
+Специально для дегенов ребята из [Degen\_Hustle](https://t.me/Degen\_Hustle) подготовили шикарный обзор "[Kujira BOW доходность на стейблы до 18% APR](https://ribbon-bill-da6.notion.site/Kujira-BOW-18-APR-28fe0b5d291b4539a357a35e6bc24109)" . Пользуйтесь.
+
 ### **Резюме** <a href="#pxqx" id="pxqx"></a>
 
 Многие дегены верят в Kujira. Очень интересной особенностью является то, что проценты с комиссии сыпят наградами в той же монете, в которой торгуют. Это очень важно:
