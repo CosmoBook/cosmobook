@@ -24,7 +24,7 @@ Cтейкинг того либо иного токена позволяет п�
 
 ### **Инициация процесса стейкинга**
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Шаг 1.** Пользователь отправляет свои токены ATOM в сеть Stride.
 
