@@ -150,7 +150,7 @@ BLUE является ядром экосистемы Kujira и содержит
 
 Так же инструмент позволяет использовать автоматический оптимизированный стейк группе валидаторов.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (7).png" alt=""><figcaption></figcaption></figure>
 
 Здесь же происходит клейм ревардов за стейкинг:
 

@@ -35,6 +35,7 @@
   * [Дропы Космоса](cosmobook/dropy-kosmosa.md)
 * [Upcoming projects](upcoming-projects/README.md)
   * [Levana](upcoming-projects/levana.md)
+  * [Ojo](upcoming-projects/ojo.md)
   * [Onomy](upcoming-projects/onomy.md)
   * [ASTROPORT](upcoming-projects/astroport.md)
   * [Duality](upcoming-projects/duality.md)
