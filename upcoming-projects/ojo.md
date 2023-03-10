@@ -58,6 +58,8 @@ Ojo изначально не будет взимать плату с проек
 
 ### Ссылки:
 
+[Website](https://ojo.network/)
+
 [Twitter](https://twitter.com/ojo\_network)
 
 [Discord](https://discord.com/invite/wWQAhU9q4y)
@@ -65,3 +67,7 @@ Ojo изначально не будет взимать плату с проек
 [GitHub](https://github.com/ojo-network/ojo)
 
 [Blog](https://blog.ojo.network/)
+
+[Reddit](https://www.reddit.com/r/OjoNetwork/)
+
+[Telegram](https://t.me/OjoNetwork)
