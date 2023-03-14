@@ -193,4 +193,6 @@ _\* Axelar Foundation стремится тратить токены прогр�
 
 Статья о сравнении кросс-чейн моделей от 0xpostman (есть про Axelar) [тут.](https://0xpostman.medium.com/part-2-cross-chain-security-models-compared-c4f91107cad4)
 
+Статья "Axelar. Глубокое погружение от Messari" от @n0name99 [тут](https://teletype.in/@n0name99/Axelar).
+
 На кого стоит подписаться в Твиттере [тут](https://twitter.com/Flowslikeosmo/status/1582174739061014528?s=20\&t=ffpjul4HAUL0anO-TYjh5A).
