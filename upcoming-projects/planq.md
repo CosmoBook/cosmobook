@@ -91,7 +91,7 @@ Planq построен на базе уже существующих решен�
 
 ### **Дорожная карта** <a href="#vc6m" id="vc6m"></a>
 
-<figure><img src="https://img1.teletype.in/files/07/28/07287fa6-5edc-4737-91d1-eb76c0548fd8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 ### Приложение <a href="#jvcq" id="jvcq"></a>
 
