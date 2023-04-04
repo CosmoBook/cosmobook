@@ -130,12 +130,4 @@ Secret NFTs - это NFTs с программируемыми функциями
 * [Telegram](https://t.me/SCRTCommunity)
 * [Русскоязычное комьюнити в T](https://t.me/scrt\_russia)[elegram](https://t.me/scrt\_russia)
 
-### **UPD:**
-
-Secret Network добавили новые секретные токены: GRAV, JUNO, LUNA, STARS.
-
-13.07.2022 Secret Network объявил о сотрудничестве с Axelar. Такое сотрудничество открывает для пользователей Secret Network доступ в большее количество новых сетей.
-
-Детали [_тут._](https://scrt.network/blog/secret-partners-with-axelar-network)
-
-Так же что такое SecretDAO вы можете почитать перейдя по ссылке [тут.](https://medium.com/@natalie.shtangrat/%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%8F-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-secretdao-5f575a8cff2f)
+****
