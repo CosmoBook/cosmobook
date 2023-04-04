@@ -66,6 +66,12 @@ Secret уже позволяет перемещать и обменивать р
 
 ![](https://telegra.ph/file/2ed3a9dc6e7d283d0e187.png)
 
+Также сеть [заключает](https://scrt.network/blog/secret-partners-with-axelar-network) заключила стратегическое партнерство с Axelar. Эта интеграция позволит Secret Network подключиться к сети взаимодействия Axelar, открывая новые возможности для связи Secret с другими блокчейнами, даже вне IBC.
+
+Поскольку Axelar уже подключен к Ethereum, Polygon, Avalanche, Moonbeam, Fantom и нескольким блокчейнам в IBC, интеграция с Secret принесет кое-что новое для всех — приватность.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p><a href="https://satellite.money/?source=ethereum&#x26;destination=osmosis&#x26;asset_denom=uusdc&#x26;destination_address=">https://satellite.money</a></p></figcaption></figure>
+
 #### **Secret NFTs**
 
 Secret NFTs - это NFTs с программируемыми функциями конфиденциальности.
