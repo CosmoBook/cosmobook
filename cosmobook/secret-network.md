@@ -74,6 +74,8 @@ Secret NFTs - это NFTs с программируемыми функциями
 
 ### **Экосистема**
 
+[Secret Dashboard ](https://dash.scrt.network/)
+
 #### **Основные DEFI на Secret Network**:
 
 * [Shade Protocol](https://shadeprotocol.io/);
@@ -81,7 +83,6 @@ Secret NFTs - это NFTs с программируемыми функциями
 * &#x20;[Button Swap](https://btn.group/secret\_network/button\_swap)
 * &#x20;[SecretBridges](https://bridge.scrt.network/);
 * &#x20;[BlackBox](https://blackbox.cash/);
-* &#x20;[Secret Auctions](https://hydro.finance/);
 * [Blizzard Finance](https://blizzard.finance/).
 
 #### **Основные НФТ на Secret Network:**
