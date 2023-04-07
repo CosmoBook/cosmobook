@@ -130,4 +130,3 @@ Secret NFTs - это NFTs с программируемыми функциями
 * [Telegram](https://t.me/SCRTCommunity)
 * [Русскоязычное комьюнити в T](https://t.me/scrt\_russia)[elegram](https://t.me/scrt\_russia)
 
-****
