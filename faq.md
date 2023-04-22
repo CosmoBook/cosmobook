@@ -43,3 +43,4 @@ _полный гайд_ [_здесь_](https://teletype.in/@creeptah/evm\_to\_co
 |              |                  | Persistence (XPRT)   | Teritori (TORI)   |                 |
 |              |                  | Onomy (NOM)          | Orai              |                 |
 |              |                  | Planq                | Quicksilver (QCK) |                 |
+|              |                  | Omniflix (FLIX)      |                   |                 |
