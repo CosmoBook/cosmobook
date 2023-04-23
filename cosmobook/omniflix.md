@@ -54,13 +54,13 @@ OmniFlixNetwork (ранее называлась FreeFlixMediaNetwork) – эт�
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>График рас genesis 300 миллионов FLIX</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>График рас genesis 300 миллионов FLIX</p></figcaption></figure>
 
 ## Распределение инфляции
 
 Инфляция распределяется для выравнивания стимулов для заинтересованных сторон, которые участвуют в развитии сети.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ниже приведена разбивка токенов, которые будут сминчены в результате инфляции в протоколе.
 

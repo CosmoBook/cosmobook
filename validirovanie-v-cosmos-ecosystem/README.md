@@ -1,0 +1,2 @@
+# Валидирование в Cosmos ecosystem
+

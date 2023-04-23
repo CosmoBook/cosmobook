@@ -80,7 +80,7 @@ xASTRO в любой момент может быть обменен 1:1 на As
 
 В настоящий момент команда занимается постепенным переходом на другие сети Cosmos. Astroport активно мелькает в [управлении Sei.](https://sei.explorers.guru/proposal/91)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **UPD**: 8 марта 2023 годы было [объявлено ](https://twitter.com/astroport\_fi/status/1633514547679043605?s=20)о запуске проекта в мейннете в сети injective.
 

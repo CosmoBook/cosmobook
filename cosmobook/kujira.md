@@ -31,7 +31,7 @@ Kujira в июле 2022 года стартовала с запуска 3х пр
 * Kujira POD - инструмент ребалансировки делигаций валидаторам для повышения уровня децентрализации сети;
 * Kujira ORCA - инструмент, позволяющий приобретать ликвидированные активы со скидками.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (6).png" alt=""><figcaption></figcaption></figure>
 
 **Идея.** Каждый заслуживает быть китом.
 
@@ -197,7 +197,7 @@ Kujira $USK - SDK-нативный стейблкоин Cosmos с избыточ
 
 4 июля 2022 года Kujira [анонсировала](https://twitter.com/TeamKujira/status/1543908579878518784) свой мобильный кошелек. Хотя было дано не так много подробностей, мы видим, что это возможный катализатор для экосистемы Kujira, поскольку такой кошелек облегчает процесс подключения пользователей к сети и обеспечивает потенциальную полезность для повседневных транзакций.&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **Команда** <a href="#iiei" id="iiei"></a>
 

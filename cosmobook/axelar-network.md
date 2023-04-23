@@ -116,7 +116,7 @@ Axelar — это универсальная оверлейная сеть, со
   \- Серия А: 12,64%.\
   \- Серия B: 3,5%.
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Совместные продажи: 5%.
 * Совместные программы (включая страховой фонд): 35,96%.
