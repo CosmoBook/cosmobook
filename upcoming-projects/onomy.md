@@ -47,7 +47,7 @@ $NOM выполняет гавернанс и утилити функции:
 
 Среди инвесторов Onomy можно выделить  Bitfinex, Avalanche Foundation, CMS Holdings, Galileo, GSR, DWF Labs, Cosmostation, Citadel.One, Forbole.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Цели Onomy**
 
