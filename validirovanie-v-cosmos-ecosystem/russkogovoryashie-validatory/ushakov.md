@@ -10,7 +10,7 @@
 
 ### **Краткий рассказ о себе:**
 
-Я - профессиональный блокчейн-разработчик и управляю нодами валидатора на многих блокчейнах. Я индивидуальный валидатор, работаю над созданием сервиса некастодиального стейкинга https://stake2.me, запускаю сервис снапшотов для цепочек на базе COSMOS: https://snapshots.stake2.me, https://github.com/k0kk0k/cosmos-snapshots-doc
+Я - профессиональный блокчейн-разработчик и управляю нодами валидатора на многих блокчейнах. Я индивидуальный валидатор, работаю над созданием сервиса некастодиального стейкинга [https://stake2.me](https://stake2.me), запускаю сервис снапшотов для цепочек на базе COSMOS: [https://snapshots.stake2.me](https://snapshots.stake2.me), [https://github.com/k0kk0k/cosmos-snapshots-doc](https://github.com/k0kk0k/cosmos-snapshots-doc)
 
 У меня есть готовая инфраструктура для быстрого развертывания нового testnet или mainnet узлов в наиболее популярных экосистемах (Polkadot substrate и Cosmos tendermint).
 
@@ -24,10 +24,9 @@
 
 
 
-**Ссылки:**
+| Ссылки:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../../.gitbook/assets/icons8-github-480 (3).png" alt="" data-size="line"> <a href="https://github.com/k0kk0k">https://github.com/k0kk0k</a><br><img src="../../.gitbook/assets/icons8-discord-500 (1).png" alt="" data-size="line"> Danil Ushakov#5735<br><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (7).png" alt="" data-size="line"> <a href="https://t.me/MasterDanila">https://t.me/MasterDanila</a><br><img src="../../.gitbook/assets/icons8-твиттер-500 (6).png" alt="" data-size="line"> <a href="https://twitter.com/1lucky_star">https://twitter.com/1lucky_star</a><br><img src="../../.gitbook/assets/icons8-интернет-100 (3).png" alt="" data-size="line"> <a href="https://stake2.me">https://stake2.me</a></p> |
 
-**Github**: [https://github.com/k0kk0k](https://github.com/k0kk0k)\
-**Discord**: Danil Ushakov#5735\
-**Telegram**: https://t.me/MasterDanila\
-**Twitter**: https://twitter.com/1lucky\_star\
-**Website**: https://stake2.me
+
+

@@ -1,38 +1,30 @@
 # Citizen Cosmos
 
-<figure><img src="../../.gitbook/assets/logo_2021.png" alt=""><figcaption></figcaption></figure>
-
 ![](<../../.gitbook/assets/image (16) (2).png>)
 
-**Моникер:** Citizen Cosmos
+### **Моникер:** Citizen Cosmos
 
-**Перечень валидируемых сетей:**
+### **Перечень валидируемых сетей:**
 
-Cosmos Hub, Evmos, Bostrom, Neutron, Celestia RPC provider
+[Cosmos Hub](../../cosmobook/cosmoshub.md), [Evmos](../../cosmobook/evmos.md), Bostrom, Neutron, Celestia RPC provider
 
-**Краткий рассказ о себе:**
+### **Краткий рассказ о себе:**
 
-"Citizen Cosmos is an ecosystem developer in the web3 universe. In simple terms, this means that we are somewhat of a city manager, working directly - for, and with the city and its citizens, read - token holders. This is opposed to working with a third party, i.e. someone that represents the voice of the people, like a mayor. The catch is, our cities are decentralized, censorship-free, open and verifiable blockchain networks. Hence, we are not a mayor or a third party, we are part of the voice of a community.
+Citizen Cosmos - разработчик экосистемы во вселенной web3. Проще говоря, это означает, что мы в некотором роде являемся городским управляющим, работающим напрямую - для города и его жителей, читай - держателей токенов. Это противоположно работе с третьей стороной, то есть с кем-то, кто представляет голос народа, например, с мэром. Загвоздка в том, что наши города - это децентрализованные, свободные от цензуры, открытые и верифицируемые сети блокчейн. Таким образом, мы не являемся мэром или третьей стороной, мы являемся частью голоса сообщества.
 
-We believe that blockchains should be viewed as digital nations and by using the tools that we hold, we help to build and bring value to these nations. Our tools vary, but for now include a web3-focused podcast, streams, social media, educational content, hackathons, distributed validator infrastructure and our offline network, which allows us to help dev teams to form strategic partnerships, especially at earlier stages.
+Мы считаем, что блокчейн следует рассматривать как цифровую нацию, и, используя инструменты, которыми мы владеем, мы помогаем создать и принести ценность этим нациям. Наши инструменты различны, но на данный момент включают в себя подкаст, ориентированный на web3, стримы, социальные сети, образовательный контент, хакатоны, инфраструктуру распределенных валидаторов и нашу офлайн-сеть, которая позволяет нам помогать командам разработчиков создавать стратегические партнерства, особенно на ранних стадиях.
 
-We are also starting to work with offline projects, such as local artists, galleries, permaculture communities, etc. Helping educate them about crypto, and sometimes, investing into them by donating crypto.
+Мы также начинаем работать с оффлайн-проектами, такими как местные художники, галереи, пермакультурные сообщества и т.д. Помогаем им в просвещении о криптовалютах, а иногда и инвестируем в них, жертвуя криптовалюту.
 
-What's in it for us? We monetize ourselves via our validators. If we believe that a city can be prosperous and it meets our values, we start to work around it. In turn, the citizens of the city, read - blockchain users, delegate tokens to our validators, which helps us to keep going.
+Что нам это дает? Мы монетизируем себя через наши валидаторы. Если мы считаем, что город может быть процветающим и он соответствует нашим ценностям, мы начинаем работать вокруг него. В свою очередь, жители города, читай - пользователи блокчейна, передают токены нашим валидаторам, что помогает нам продолжать работу.
 
-For now, Citizen Cosmos is primarily focused on Tendermint, Cosmos-SDK and Ethereum, but not only. Our podcast is focused on the interchain, and we validate Cosmos-based networks. We cover events as a media outlet, organize and sponsor events, create educational content and help people to dive into the rabbit hole.
+На данный момент Citizen Cosmos в первую очередь ориентирован на Tendermint, Cosmos-SDK и Ethereum, но не только. Наш подкаст посвящен интерчейну, и мы проверяем сети на базе Cosmos. Мы освещаем события как СМИ, организуем и спонсируем мероприятия, создаем образовательный контент и помогаем людям погрузиться в кроличью нору.
 
-Our goals are much bigger. We strive and build to becoming the layer-0, i.e. - a community bridge between ecosystem. "
+Наши цели гораздо шире. Мы стремимся и строим, чтобы стать layer-0, то есть мостом между экосистемой и сообществом.
 
-**Участие в жизни экосистемы (продукты):**
+### **Участие в жизни экосистемы (продукты):**
 
-Podcast, streams, debates, guides, gaming, infrastructure, partnerships
+Подкасты, стримы, дебаты, руководства, игры, инфраструктура, партнерство
 
-**Ссылки:**
+<table><thead><tr><th>Ссылки:</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/icons8-интернет-100 (2).png" alt="" data-size="line"> <a href="https://www.citizencosmos.space/staking">https://www.citizencosmos.space/staking</a> </p><p><img src="../../.gitbook/assets/icons8-discord-500 (3).png" alt="" data-size="line"> <a href="https://discord.com/invite/XY67YBjK7k">https://discord.com/invite/XY67YBjK7k</a> </p><p><img src="../../.gitbook/assets/icons8-твиттер-500 (4).png" alt="" data-size="line"> <a href="https://twitter.com/cosmos_voice">https://twitter.com/cosmos_voice</a> </p><p><img src="../../.gitbook/assets/подкасты.png" alt="" data-size="line"> <a href="https://citizen-cosmos.github.io/manuscripts/">https://citizen-cosmos.github.io/manuscripts/</a> </p><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (13).png" alt="" data-size="line"> <a href="https://t.me/citizen_cosmos">https://t.me/citizen_cosmos</a> </p><p><img src="../../.gitbook/assets/icons8-github-480 (5).png" alt="" data-size="line"> <a href="https://github.com/citizen-cosmos">https://github.com/citizen-cosmos</a></p></td><td></td><td></td></tr></tbody></table>
 
-* &#x20;Website: https://www.citizencosmos.space/staking
-* Discord: https://discord.com/invite/XY67YBjK7k
-* Twitter: https://twitter.com/cosmos\_voice
-* Blog: https://citizen-cosmos.github.io/manuscripts/
-* Telegram: https://t.me/citizen\_cosmos
-* Github: https://github.com/citizen-cosmos"
