@@ -1,12 +1,12 @@
 # CosmosDrops
 
-
+![](../../.gitbook/assets/transparency\_avatar.png)
 
 **Моникер:** CosmosDrops
 
 **Перечень валидируемых сетей:**
 
-E-money, Bitsong, Nomic
+[E-money](../../cosmobook/e-money.md), Bitsong, [Nomic](../../cosmobook/nomic.md)
 
 **Краткий рассказ о себе:**
 
@@ -14,10 +14,12 @@ E-money, Bitsong, Nomic
 
 **Участие в жизни экосистемы (продукты):**
 
-"https://cosmosdrops.io/ https://t.me/cosmosdropsio"
+Сайт для отслеживания дропов в экосистеме Cosmos: https://cosmosdrops.io/ https://t.me/cosmosdropsio
+
+
 
 **Ссылки:**
 
-"https://validator.cosmosdrops.io/&#x20;
+**Website:** https://validator.cosmosdrops.io/&#x20;
 
-https://t.me/cosmosdropsio"
+**Telegram-chat:** https://t.me/cosmosdropsio

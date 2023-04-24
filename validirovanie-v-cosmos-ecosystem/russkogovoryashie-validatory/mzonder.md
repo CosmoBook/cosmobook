@@ -2,24 +2,24 @@
 
 <img src="../../.gitbook/assets/image (3).png" alt="" data-size="original">
 
-**Моникер:** MZONDER
+### **Моникер:** MZONDER
 
-**Перечень валидируемых сетей:**
+### **Перечень валидируемых сетей:**
 
-Evmos, Gravity Bridge, Omniflix Hub, Stride, UMEE
+[Evmos](../../cosmobook/evmos.md), [Gravity Bridge](../../cosmobook/gravity-bridge.md), [Omniflix Hub](../../cosmobook/omniflix.md), [Stride](../../readme/stride.md), [UMEE](../../readme/umee.md)
 
-**Краткий рассказ о себе:**
+### **Краткий рассказ о себе:**
 
 
 
-**Участие в жизни экосистемы (продукты):**
+### **Участие в жизни экосистемы (продукты):**
 
 
 
 **Ссылки:**
 
-@mzonder&#x20;
+**Telegram**: @mzonder&#x20;
 
-mzonder#5844
+**Discord**: mzonder#5844
 
-&#x20;https://github.com/maxzonder
+**Github**: https://github.com/maxzonder

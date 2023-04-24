@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/logo_2021.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (2).png>)
 
 **Моникер:** Citizen Cosmos
 
