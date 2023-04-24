@@ -26,7 +26,7 @@ CosmoBook начал валидировать в тестовых сетях э�
 
 Наш основной продукт: [CosmoBook.io](https://cosmobook.io)
 
-Дашборд валидаторов Cosmos: https://monitoring.creeptah.xyz _(руководство_ [_https://creeptah.gitbook.io/node/cosmos/usefull\_for\_cosmos/monitoring_](https://creeptah.gitbook.io/node/cosmos/usefull\_for\_cosmos/monitoring)_)._&#x20;
+Дашборд валидаторов Cosmos: [https://monitoring.creeptah.xyz](https://monitoring.creeptah.xyz) _(руководство_ [_https://creeptah.gitbook.io/node/cosmos/usefull\_for\_cosmos/monitoring_](https://creeptah.gitbook.io/node/cosmos/usefull\_for\_cosmos/monitoring)_)._&#x20;
 
 Поддержка блок-эксплорера: [http://explorer.creeptah.xyz](http://explorer.creeptah.xyz).
 
