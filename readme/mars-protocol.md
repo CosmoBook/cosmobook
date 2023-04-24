@@ -63,7 +63,7 @@ Red Bank - это место, через которые происходят в�
 
 ### Дорожная карта <a href="#z5et" id="z5et"></a>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 На 8 февраля 2023 года был запущен первый OUTPOST на Osmosis и идёт подготовка к запуску C2C.
 
