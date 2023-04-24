@@ -1,4 +1,4 @@
-# 🐹 Quokka Stake
+# Quokka Stake
 
 <img src="../../.gitbook/assets/image (14) (4).png" alt="" data-size="original">
 
