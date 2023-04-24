@@ -1,6 +1,6 @@
 # NODEJUMPER
 
-<img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (9) (1) (3).png" alt="" data-size="original">
 
 ### **Моникер:** NODEJUMPER
 
@@ -33,5 +33,5 @@ NODEJUMPER — профессиональный POS валидатор и сте
 
 
 
-<table><thead><tr><th>Ссылки:</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/icons8-интернет-100 (9).png" alt="" data-size="line"> <a href="https://nodejumper.io/">https://nodejumper.io/</a> </p><p><img src="../../.gitbook/assets/icons8-работа-100.png" alt="" data-size="line"> <a href="https://app.nodejumper.io/">https://app.nodejumper.io/</a> </p><p><img src="../../.gitbook/assets/icons8-твиттер-500 (8).png" alt="" data-size="line"> <a href="https://twitter.com/nodejumper">https://twitter.com/nodejumper</a> </p><p><img src="../../.gitbook/assets/icons8-github-480 (4).png" alt="" data-size="line"> <a href="https://github.com/nodejumper-org">https://github.com/nodejumper-org</a> </p><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (9).png" alt="" data-size="line"> <a href="https://t.me/nodejumper_ru">https://t.me/nodejumper_ru</a> </p><p><img src="../../.gitbook/assets/image (9).png" alt=""><a href="https://link3.to/nodejumper">https://link3.to/nodejumper</a></p></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Ссылки:</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/icons8-интернет-100 (9).png" alt="" data-size="line"> <a href="https://nodejumper.io/">https://nodejumper.io/</a> </p><p><img src="../../.gitbook/assets/icons8-работа-100.png" alt="" data-size="line"> <a href="https://app.nodejumper.io/">https://app.nodejumper.io/</a> </p><p><img src="../../.gitbook/assets/icons8-твиттер-500 (8).png" alt="" data-size="line"> <a href="https://twitter.com/nodejumper">https://twitter.com/nodejumper</a> </p><p><img src="../../.gitbook/assets/icons8-github-480 (4).png" alt="" data-size="line"> <a href="https://github.com/nodejumper-org">https://github.com/nodejumper-org</a> </p><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (9).png" alt="" data-size="line"> <a href="https://t.me/nodejumper_ru">https://t.me/nodejumper_ru</a> </p><p><img src="../../.gitbook/assets/C91A6AF2-32C9-401C-B367-212DF65CD552-transformed 4.png" alt="" data-size="line"><a href="https://link3.to/nodejumper">https://link3.to/nodejumper</a></p></td><td></td><td></td></tr></tbody></table>
 
