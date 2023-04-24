@@ -16,5 +16,5 @@
 
 
 
-<table><thead><tr><th>Ссылки:</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (8).png" alt="" data-size="line"> @mzonder</p><p><img src="../../.gitbook/assets/icons8-discord-500.png" alt="" data-size="line"> mzonder#5844</p><p><img src="../../.gitbook/assets/icons8-github-480 (6).png" alt="" data-size="line"> <a href="https://github.com/maxzonder">https://github.com/maxzonder</a></p></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Ссылки:</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (4).png" alt="" data-size="line"> @mzonder</p><p><img src="../../.gitbook/assets/icons8-discord-500.png" alt="" data-size="line"> mzonder#5844</p><p><img src="../../.gitbook/assets/icons8-github-480 (5).png" alt="" data-size="line"> <a href="https://github.com/maxzonder">https://github.com/maxzonder</a></p></td><td></td><td></td></tr></tbody></table>
 

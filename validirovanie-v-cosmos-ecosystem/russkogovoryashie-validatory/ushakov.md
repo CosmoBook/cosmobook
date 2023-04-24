@@ -18,15 +18,9 @@
 
 **Подробнее:** [**https://docs.google.com/document/d/1YEPMjG4FCUmbWpPyTRBvyUQDfrYX81clhd-gdQzcm9g**](https://docs.google.com/document/d/1YEPMjG4FCUmbWpPyTRBvyUQDfrYX81clhd-gdQzcm9g)
 
-### **Участие в жизни экосистемы (продукты):**
-
-см. ссылку выше в g-docs
-
-
-
 | Ссылки:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../../.gitbook/assets/icons8-github-480 (3).png" alt="" data-size="line"> <a href="https://github.com/k0kk0k">https://github.com/k0kk0k</a><br><img src="../../.gitbook/assets/icons8-discord-500 (1).png" alt="" data-size="line"> Danil Ushakov#5735<br><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (7).png" alt="" data-size="line"> <a href="https://t.me/MasterDanila">https://t.me/MasterDanila</a><br><img src="../../.gitbook/assets/icons8-твиттер-500 (6).png" alt="" data-size="line"> <a href="https://twitter.com/1lucky_star">https://twitter.com/1lucky_star</a><br><img src="../../.gitbook/assets/icons8-интернет-100 (3).png" alt="" data-size="line"> <a href="https://stake2.me">https://stake2.me</a></p> |
+| <p><img src="../../.gitbook/assets/icons8-github-480 (2).png" alt="" data-size="line"> <a href="https://github.com/k0kk0k">https://github.com/k0kk0k</a><br><img src="../../.gitbook/assets/icons8-discord-500 (1).png" alt="" data-size="line"> Danil Ushakov#5735<br><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (3).png" alt="" data-size="line"> <a href="https://t.me/MasterDanila">https://t.me/MasterDanila</a><br><img src="../../.gitbook/assets/icons8-твиттер-500 (5).png" alt="" data-size="line"> <a href="https://twitter.com/1lucky_star">https://twitter.com/1lucky_star</a><br><img src="../../.gitbook/assets/icons8-интернет-100 (2).png" alt="" data-size="line"> <a href="https://stake2.me">https://stake2.me</a></p> |
 
 
 
