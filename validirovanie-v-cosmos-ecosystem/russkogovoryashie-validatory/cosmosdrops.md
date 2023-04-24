@@ -20,7 +20,7 @@
 
 
 
-<table><thead><tr><th>Ссылки:</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/icons8-интернет-100 (7).png" alt="" data-size="line"> https://validator.cosmosdrops.io/ </p><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (12).png" alt="" data-size="line"> https://t.me/cosmosdropsio</p></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Ссылки:</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/icons8-интернет-100 (7).png" alt="" data-size="line"> <a href="https://validator.cosmosdrops.io/">https://validator.cosmosdrops.io/</a> </p><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (12).png" alt="" data-size="line"> <a href="https://t.me/cosmosdropsio">https://t.me/cosmosdropsio</a></p></td><td></td><td></td></tr></tbody></table>
 
 
 
