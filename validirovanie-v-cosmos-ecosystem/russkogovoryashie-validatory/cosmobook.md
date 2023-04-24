@@ -10,11 +10,27 @@
 
 ### **Краткий рассказ о себе:**
 
-yep
+CosmoBook валидатор начал валидировать в тестовых сетях экосистемы Cosmos в 2022м году. Когда стало понятно, что содержать инфраструктуру CosmoBook - репозитория весьма затратно, мы приняли решение отравиться в майннет, надеясь на поддержку комьюнити.&#x20;
+
+План состоял в том, что мы пишем для космонавтов, они нам делегируют, и на доходы с комиссии мы можем содержать инфраструктуру. Идея показалась нам вполне в стиле веб3, где выигрывают все.
+
+Первым нашим майннетом стала сеть Rebus.&#x20;
+
+Самым большим своим успехом в валидировании мы считаем участие в активном сете Secret Network.
+
+Надеемся, что все на этом не закончится и мы станем полноправным и значимым участником экосистемы Cosmos.
+
+Мы ценим наше партнерство с кажым делегатором.
 
 ### **Участие в жизни экосистемы (продукты):**
 
-We participated in different testnets. We've run full nodes and validators such projects like Ares Protocol, Archway, Stratos, Quai, Subspace, StaFi Protocol, DeFund, Sei, Stride, Masa Finance, Massa, StarkNet, Aptos, IronFish, peaq, Bundlr, obol, Minima, Qiucksilver, Paloma, Ollo, Hyper-sign, Haqq, OKP4, Uptick, Ojo, Stader etc. We wrote guides and manuals for different projects ([https://teletype.in/@creeptah](https://teletype.in/@creeptah), [https://creeptah.gitbook.io/node/](https://creeptah.gitbook.io/node/)). Created dashboard for monitoring of Cosmos validators node ([https://monitoring.creeptah.xyz/](https://monitoring.creeptah.xyz/)) and wrote guide about it ([https://creeptah.gitbook.io/node/cosmos/usefull\_for\_cosmos/monitoring](https://creeptah.gitbook.io/node/cosmos/usefull\_for\_cosmos/monitoring)). Also contributed to UnUniFi GitHub (created guide installing node [https://github.com/UnUniFi/gitbook](https://github.com/UnUniFi/gitbook)). Support custom explorer ([http://explorer.creeptah.xyz/](http://explorer.creeptah.xyz/)). Support some IBC channel between Planq and Stride, Umee and Stride.
+Наш основной продукт - CosmoBook.io
+
+Дашборд Cosmos validators https://monitoring.creeptah.xyz / (руководство https://creeptah.gitbook.io/node/cosmos/usefull\_for\_cosmos/monitoring ).&#x20;
+
+Поддержка пользовательского проводника http://explorer.creeptah.xyz /.
+
+Организация и поддержка каналов IBC между Planq и Stride, Umee и Stride.
 
 <table><thead><tr><th>Ссылки:</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/icons8-интернет-100 (6).png" alt="" data-size="line"> <a href="https://cosmobook.io">https://cosmobook.io</a> </p><p><img src="../../.gitbook/assets/icons8-интернет-100 (5).png" alt="" data-size="line"> <a href="https://creeptah.xyz">https://creeptah.xyz</a> </p><p><img src="../../.gitbook/assets/icons8-твиттер-500.png" alt="" data-size="line"> <a href="https://twitter.com/cosmobook_io">https://twitter.com/cosmobook_io</a> </p><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (2).png" alt="" data-size="line"> <a href="https://t.me/cosmobook_io">https://t.me/cosmobook_io</a> </p><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480.png" alt="" data-size="line"> <a href="https://t.me/creeptah">https://t.me/creeptah</a></p></td><td></td><td></td></tr></tbody></table>
 
