@@ -52,6 +52,7 @@
     * [CosmoBook](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/cosmobook.md)
     * [Cosmos Cats](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/cosmos-cats.md)
     * [CosmosDrops](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/cosmosdrops.md)
+    * [MagicTeam](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/magicteam.md)
     * [MZONDER](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/mzonder.md)
     * [NODEJUMPER](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/nodejumper.md)
     * [Quokka Stake](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/quokka-stake.md)
