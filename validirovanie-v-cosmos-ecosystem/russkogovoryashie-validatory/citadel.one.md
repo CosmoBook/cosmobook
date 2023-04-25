@@ -24,9 +24,9 @@ Cosmos governance: [https://app.citadel.one/extensions/cosmos-governance](https:
 
 Autorestake: [https://app.citadel.one/extensions/autorestake](https://app.citadel.one/extensions/autorestake)&#x20;
 
-Tax Reporting: [https://app.citadel.one/extensions/tax-reporting](https://app.citadel.one/extensions/tax-reporting) XCT&#x20;
+Tax Reporting: [https://app.citadel.one/extensions/tax-reporting](https://app.citadel.one/extensions/tax-reporting)&#x20;
 
-governance: [https://app.citadel.one/extensions/xct-governance](https://app.citadel.one/extensions/xct-governance)
+XCT governance: [https://app.citadel.one/extensions/xct-governance](https://app.citadel.one/extensions/xct-governance)
 
 <table><thead><tr><th>Ссылки:</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/icons8-интернет-100 (4).png" alt="" data-size="line"> <a href="https://citadel.one/">https://citadel.one/</a><br><img src="../../.gitbook/assets/icons8-discord-500 (2).png" alt="" data-size="line"> <a href="https://discord.gg/wdxksN4T">https://discord.gg/wdxksN4T</a><br><img src="../../.gitbook/assets/icons8-medium-384.png" alt="" data-size="line"> <a href="https://medium.com/citadel-oneru">https://medium.com/citadel-oneru</a><br><img src="../../.gitbook/assets/icons8-твиттер-500 (5).png" alt="" data-size="line"> <a href="https://twitter.com/CitadelDAOru">https://twitter.com/CitadelDAOru</a><br><img src="../../.gitbook/assets/89EA7604-108D-4D54-AA78-7F0AE30B4A3A-transformed.png" alt="" data-size="line"> <a href="http://zealy.io/c/citadeldao/questboard">http://zealy.io/c/citadeldao/questboard</a><br><img src="../../.gitbook/assets/icons8-ютуб-512.png" alt="" data-size="line"> <a href="http://link.citadel.one/youtube_land">http://link.citadel.one/youtube_land<br></a><img src="../../.gitbook/assets/icons8-github-480 (7).png" alt="" data-size="line"> <a href="https://github.com/citadeldao">https://github.com/citadeldao</a> </p><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (4).png" alt="" data-size="line"> <a href="https://t.me/citadel_rus">https://t.me/citadel_rus</a></p></td><td></td><td></td></tr></tbody></table>
 
