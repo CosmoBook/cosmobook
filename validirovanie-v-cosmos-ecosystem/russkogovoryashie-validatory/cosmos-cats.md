@@ -1,5 +1,7 @@
 # Cosmos Cats
 
+<img src="../../.gitbook/assets/cats_transparent.png" alt="" data-size="original">
+
 ### **Моникер: Cosmos Cats**
 
 ### **Перечень валидируемых сетей:**
