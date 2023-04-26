@@ -18,7 +18,11 @@
 
 Группа в телеграм для обсуждения дропов [https://t.me/cosmosdropsio](https://t.me/cosmosdropsio)
 
+Сервис добавления сетей в кошелек Keplr [https://cosmosdrops.io/tools/beta-chains-add](https://cosmosdrops.io/tools/beta-chains-add)
 
+Сервис позволяет сгенерировать адрес из одной сети Cosmos в другую, в рамках одного derivation path [https://cosmosdrops.io/tools/bech32-converter](https://cosmosdrops.io/tools/bech32-converter)
+
+Бот для получения актуальной информации с сайта по текущим дропам.
 
 <table><thead><tr><th>Ссылки:</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/icons8-интернет-100 (7).png" alt="" data-size="line"> <a href="https://validator.cosmosdrops.io/">https://validator.cosmosdrops.io/</a> </p><p><img src="../../.gitbook/assets/icons8-телеграмма-app-480 (12).png" alt="" data-size="line"> <a href="https://t.me/cosmosdropsio">https://t.me/cosmosdropsio</a></p></td><td></td><td></td></tr></tbody></table>
 
