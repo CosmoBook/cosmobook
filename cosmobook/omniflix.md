@@ -115,6 +115,7 @@ OmniFlixNetwork (ранее называлась FreeFlixMediaNetwork) – эт�
 * Medium (for blog posts until June 2022) - [https://medium.com/@OmniFlix](https://medium.com/@OmniFlix)
 * Blog (for posts from July 2022) - [https://mirror.xyz/OmniFlixNetwork.eth](https://mirror.xyz/OmniFlixNetwork.eth)
 * Flix Fanatics (An OmniFlix subDAO) - [https://mirror.xyz/FlixFanatics.eth](https://mirror.xyz/FlixFanatics.eth)
+* Dashboard [OmniFlix-stats](https://monitor.bronbro.io/d/omniflix-stats/omniflix-stats?orgId=2\&refresh=5s)&#x20;
 
 ## Apps
 
