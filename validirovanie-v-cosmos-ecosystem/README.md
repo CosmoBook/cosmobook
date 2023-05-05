@@ -403,3 +403,5 @@ CEX аккумулирует у себя значительную часть т�
 [Scorp](https://t.me/ouroboros\_33)[ ](https://t.me/ouroboros\_33)(валидатор [Cosmos Cats](https://t.me/cosmoscats))
 
 [CyberObiOne](https://t.me/CyberObiOne) (валидатор [Bro\_n\_Bro](https://bronbro.io/))
+
+[JustYap](https://t.me/JustYap) (каналы [Крипта и хтонь](https://t.me/cryptochtonic), [С нуля до нуля на крипте](https://t.me/notothemoon))
