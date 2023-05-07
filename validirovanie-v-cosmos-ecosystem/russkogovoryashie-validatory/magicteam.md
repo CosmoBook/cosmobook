@@ -1,6 +1,6 @@
 # MagicTeam
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 ### **Моникер:** MagicTeam
 

@@ -1,6 +1,6 @@
 # Bro\_n\_Bro
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **Моникер:** Bro\_n\_Bro
 

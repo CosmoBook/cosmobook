@@ -54,7 +54,7 @@ OmniFlixNetwork (ранее называлась FreeFlixMediaNetwork) – эт�
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>График рас genesis 300 миллионов FLIX</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2) (2).png" alt=""><figcaption><p>График рас genesis 300 миллионов FLIX</p></figcaption></figure>
 
 ## Распределение инфляции
 
