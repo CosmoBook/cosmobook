@@ -6,7 +6,9 @@
 
 ### **Перечень валидируемых сетей:**&#x20;
 
-### [Cosmos Hub](../../cosmobook/cosmoshub.md), [Juno](../../cosmobook/juno/), [Osmosis](../../cosmobook/osmosis.md), [Stargaze](../../cosmobook/stargaze.md), [Evmos](../../cosmobook/evmos.md), Bostrom, Crescent, [Omniflix Hub](../../cosmobook/omniflix.md), [Stride](../../readme/stride.md), [QuickSilver](../../readme/quicksilver.md), [UMEE](../../readme/umee.md), [https://github.com/Validator-POSTHUMAN/About-POSTHUMAN](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN)
+### [Cosmos Hub](../../cosmobook/cosmoshub.md), [Juno](../../cosmobook/juno/), [Osmosis](../../cosmobook/osmosis.md), [Stargaze](../../cosmobook/stargaze.md), [Evmos](../../cosmobook/evmos.md), Bostrom, Crescent, Persistence, Fetch.ai, Ki Chain, Rizon, LikeCoin, [Starname](../../cosmobook/starname.md), MediBloc, [SifChain](../../cosmobook/sifchain.md), ODIN Protocol, Lum Network, [Gravity Bridge](../../cosmobook/gravity-bridge.md), Chihuahua, AssetMantle, Tgrade, [Injective Protocol](../../cosmobook/injective.md), KYVE Network, [Akash Network](../../cosmobook/akash.md),  [Omniflix Hub](../../cosmobook/omniflix.md), [Stride](../../readme/stride.md), [QuickSilver](../../readme/quicksilver.md), [UMEE](../../readme/umee.md)
+
+### [https://github.com/Validator-POSTHUMAN/About-POSTHUMAN](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN)
 
 
 
