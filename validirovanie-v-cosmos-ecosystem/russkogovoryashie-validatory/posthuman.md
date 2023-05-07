@@ -6,7 +6,7 @@
 
 ### **Перечень валидируемых сетей:**&#x20;
 
-### [Cosmos Hub](../../cosmobook/cosmoshub.md), [Juno](../../cosmobook/juno/), [Osmosis](../../cosmobook/osmosis.md), [Stargaze](../../cosmobook/stargaze.md), [Evmos](../../cosmobook/evmos.md), Bostrom, Crescent, [Omniflix Hub](../../cosmobook/omniflix.md), [Stride](../../readme/stride.md), [QuickSilver](../../readme/quicksilver.md), [Kujira](../../cosmobook/kujira.md), [UMEE](../../readme/umee.md), [https://github.com/Validator-POSTHUMAN/About-POSTHUMAN](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN)
+### [Cosmos Hub](../../cosmobook/cosmoshub.md), [Juno](../../cosmobook/juno/), [Osmosis](../../cosmobook/osmosis.md), [Stargaze](../../cosmobook/stargaze.md), [Evmos](../../cosmobook/evmos.md), Bostrom, Crescent, [Omniflix Hub](../../cosmobook/omniflix.md), [Stride](../../readme/stride.md), [QuickSilver](../../readme/quicksilver.md), [UMEE](../../readme/umee.md), [https://github.com/Validator-POSTHUMAN/About-POSTHUMAN](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN)
 
 
 
