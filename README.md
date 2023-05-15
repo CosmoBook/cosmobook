@@ -18,5 +18,9 @@ Cosmobook - это открытый бесплатный ресурс, где с
 
 Oтдельное спасибо за помощь [@arinaa\_k](https://t.me/arinaa\_k)
 
+<div align="left">
+
 <figure><img src=".gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
