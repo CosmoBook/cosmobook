@@ -1,6 +1,6 @@
 # POSTHUMAN
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (36).png>)
 
 ### **Моникер:** POSTHUMAN
 

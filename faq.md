@@ -28,19 +28,4 @@ _полный гайд_ [_здесь_](https://teletype.in/@creeptah/evm\_to\_co
 
 ## Unbonding токенов
 
-| 7+ days      | 14+ days         | 21+ days             |                   | 28+ days        |
-| ------------ | ---------------- | -------------------- | ----------------- | --------------- |
-| Axelar (Axl) | Osmosis (Osmo)   | Cosmos Hub (ATOM)    | Akash (AKT)       | Juno            |
-|              | Evmos            | AssetMantle (MNTL)   | IXO               | Sentinel (DVPN) |
-|              | Stargaze (STARS) | Starname (IOV)       | Secret (SCRT)     |                 |
-|              | Umee             | Sommelier (SOMM)     | Regen             |                 |
-|              | Kujira (KUJI)    | GravityBridge (GRAV) | Kava              |                 |
-|              | Nomic (NOM)      | Cryrto.org (CRO)     | Agorik (BLD)      |                 |
-|              | Mars Protocol    | Certik (CTK)         | Likecoin (LIKE)   |                 |
-|              |                  | Bitsong (BTSG)       | Rebus             |                 |
-|              |                  | e-Money (NGM)        | Stride (STRD)     |                 |
-|              |                  | SifChaine (ROWAN)    | Iris              |                 |
-|              |                  | Persistence (XPRT)   | Teritori (TORI)   |                 |
-|              |                  | Onomy (NOM)          | Orai              |                 |
-|              |                  | Planq                | Quicksilver (QCK) |                 |
-|              |                  | Omniflix (FLIX)      |                   |                 |
+<table><thead><tr><th width="112">7+ days</th><th width="143">14+ days</th><th width="159">21+ days</th><th width="152"> </th><th width="155">28+ days</th></tr></thead><tbody><tr><td>Axelar (Axl)</td><td>Osmosis (Osmo)</td><td>Cosmos Hub (ATOM)</td><td>Akash (AKT)</td><td>Juno</td></tr><tr><td></td><td>Evmos</td><td>AssetMantle (MNTL)</td><td>IXO</td><td>Sentinel (DVPN)</td></tr><tr><td></td><td>Stargaze (STARS)</td><td>Starname (IOV)</td><td>Secret (SCRT)</td><td></td></tr><tr><td></td><td>Umee</td><td>Sommelier (SOMM)</td><td>Regen</td><td></td></tr><tr><td></td><td>Kujira (KUJI)</td><td>GravityBridge (GRAV)</td><td>Kava</td><td></td></tr><tr><td></td><td>Nomic (NOM)</td><td>Cryrto.org (CRO)</td><td>Agorik (BLD)</td><td></td></tr><tr><td></td><td>Mars Protocol </td><td>Certik (CTK)</td><td>Likecoin (LIKE)</td><td></td></tr><tr><td></td><td></td><td>Bitsong (BTSG)</td><td>Rebus</td><td></td></tr><tr><td></td><td></td><td>e-Money (NGM)</td><td>Stride (STRD)</td><td></td></tr><tr><td></td><td></td><td>SifChaine (ROWAN)</td><td>Iris</td><td></td></tr><tr><td></td><td></td><td>Persistence (XPRT)</td><td>Teritori (TORI)</td><td></td></tr><tr><td></td><td></td><td>Onomy (NOM)</td><td>Orai</td><td></td></tr><tr><td></td><td></td><td>Planq</td><td>Quicksilver (QCK)</td><td></td></tr><tr><td></td><td></td><td>Omniflix (FLIX)</td><td></td><td></td></tr></tbody></table>

@@ -1,6 +1,6 @@
 # Axelar Network
 
-![](https://img2.teletype.in/files/d4/e8/d4e8c214-107e-4eca-9ab7-e20c464f623d.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Axelar Network <a href="#l4aq" id="l4aq"></a>
 
