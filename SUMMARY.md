@@ -34,6 +34,7 @@
   * [Quicksilver](readme/quicksilver.md)
   * [Дропы Космоса](cosmobook/dropy-kosmosa.md)
 * [Upcoming projects](upcoming-projects/README.md)
+  * [Berachain](upcoming-projects/berachain.md)
   * [Levana](upcoming-projects/levana.md)
   * [Ojo](upcoming-projects/ojo.md)
   * [Onomy](upcoming-projects/onomy.md)

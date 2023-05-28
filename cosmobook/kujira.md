@@ -221,7 +221,7 @@ Kujira $USK - SDK-нативный стейблкоин Cosmos с избыточ
 
 Планы на ближайшую перспективу
 
-<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>https://kujira.app</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3) (4).png" alt=""><figcaption><p>https://kujira.app</p></figcaption></figure>
 
 ### Bonus <a href="#pxqx" id="pxqx"></a>
 
