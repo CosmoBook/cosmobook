@@ -1,6 +1,6 @@
 # Akash
 
-***
+
 
 ![](https://img2.teletype.in/files/93/1f/931fd987-b8cd-47a0-a37f-88ae3edf47a6.png)
 
