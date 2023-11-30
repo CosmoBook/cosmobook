@@ -8,7 +8,7 @@
   * [Secret Network](cosmobook/secret-network.md)
   * [Axelar Network](cosmobook/axelar-network.md)
   * [Evmos](cosmobook/evmos.md)
-  * [Umee](readme/umee.md)
+  * [UX chain](readme/umee.md)
   * [Stride](readme/stride.md)
   * [Mars Protocol](readme/mars-protocol.md)
   * [Canto](readme/canto.md)
