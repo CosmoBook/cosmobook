@@ -48,6 +48,7 @@
 * [FAQ](faq.md)
 * [Валидирование в Cosmos ecosystem](validirovanie-v-cosmos-ecosystem/README.md)
   * [Русскоговорящие валидаторы](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/README.md)
+    * [5Dimension](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/5dimension.md)
     * [Bro\_n\_Bro](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/bro\_n\_bro.md)
     * [Broxa / SUNREN](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/broxa-sunren.md)
     * [Citadel.one](validirovanie-v-cosmos-ecosystem/russkogovoryashie-validatory/citadel.one.md)
