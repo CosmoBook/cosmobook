@@ -10,7 +10,7 @@
 
 ### **Перечень валидируемых сетей:**&#x20;
 
-Gitopia, Nibiru
+Gitopia, Nibiru, Band Protocol
 
 ### **Краткий рассказ о себе:**&#x20;
 
